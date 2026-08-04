@@ -7,9 +7,9 @@ own folder containing standalone `.c` programs.
 
 | Folder | Topics Covered |
 |---|---|
-| [`question-paper-1/`](./question-paper-1) | Substrings, array de-duplication |
-| [`question-paper-2/`](./question-paper-2) | Backtracking (combination sum), number palindromes |
-| [`question-paper-3/`](./question-paper-3) | Two-pointer string manipulation, brute-force search (3-sum) |
+| [`Set-1/`](./Set-1) | Substrings, array de-duplication |
+| [`Set-2/`](./Set-2) | Backtracking (combination sum), number palindromes |
+| [`Set-3/`](./Set-3) | Two-pointer string manipulation, brute-force search (3-sum) |
 
 ## How to Compile & Run
 
